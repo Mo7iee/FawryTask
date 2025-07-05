@@ -1,4 +1,4 @@
-# MAIN METHOUD OUTPUT
+# MAIN METHOD OUTPUT
 ----------------------
 ** Checkout receipt **
 1x TV	1500.00
